@@ -1,0 +1,103 @@
+
+body {
+  
+    background-image: url("https://www.banamex.com/es/personas/banca-digital/img/desktop/bg-blue-gradient.jpg");
+    background-repeat:repeat;
+}
+
+
+
+
+.banner{
+    display: grid;
+    
+    height: 200px;
+    justify-content:center;
+    align-items:center;
+    color: aliceblue;
+    
+}
+
+.Mingreso {
+    
+    display: flex;
+    border-radius: 3%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    color: rgb(199, 222, 243);
+}
+
+
+
+
+.CajaPrinc {
+    width: 100%;
+    display: flex;
+   justify-content:center;
+    align-items: center;
+}
+
+.logo{
+    padding: 2%;
+    opacity: 0.8;
+}
+
+.logo img {
+padding: 1%;
+border-radius: 10%;
+
+
+
+}
+
+.accesando{
+    border-radius: 8%;
+    height: 405.88px;
+   
+
+    padding: 2%;
+    background-color: rgb(50, 50, 107);
+    color: aliceblue;
+    
+    width: 620px;
+    display: grid;
+    justify-content: center;
+    
+    
+}
+
+.paraboton{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.bannerinferior{
+    display: flex;
+    margin-left: 500px;
+   
+
+}
+
+.impresion{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(95, 95, 95);
+    color: rgb(243, 243, 243);
+}
+
+.pantalla{
+    border-radius: 8%;
+    height: 20px;
+    width: 150px;
+
+    padding: 2%;
+    background-color: rgb(50, 50, 107);
+    color: aliceblue;
+    
+    width: 100%;
+    display: grid;
+    justify-content: center;
+}
